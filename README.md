@@ -15,3 +15,4 @@ This is a simple TicTacToe board game. I have upgraded to React 19. this game le
 - clsx class name tool
 
 
+note: tic-tac-toe.html is a static HTML page as a JSX reference.
